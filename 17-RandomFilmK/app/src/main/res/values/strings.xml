@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Random Movie</string>
+    <string name="prompt">Press the button to get a movie!</string>
+    <string name="next">Next movie</string>
+    <string name="reset">Reset list</string>
+    <string name="no_more_movies">No more movies available!</string>
+    <string name="reset_done">Movie list has been reset!</string>
+    <string-array name="movies">
+        <item>Inception</item>
+        <item>The Truman Show</item>
+        <item>The Mask</item>
+        <item>The Matrix</item>
+        <item>The Shawshank Redemption</item>
+        <item>The Green Mile</item>
+        <item>Forrest Gump</item>
+        <item>Interstellar</item>
+    </string-array>
+</resources>

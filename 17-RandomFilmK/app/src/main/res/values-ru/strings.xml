@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Случайный фильм</string>
+    <string name="prompt">Нажмите кнопку, чтобы выбрать фильм!</string>
+    <string name="next">Следующий фильм</string>
+    <string name="reset">Начать заново</string>
+    <string name="no_more_movies">Фильмы закончились!</string>
+    <string name="reset_done">Список фильмов сброшен!</string>
+    <string-array name="movies">
+        <item>Начало</item>
+        <item>Шоу Трумана</item>
+        <item>Маска</item>
+        <item>Матрица</item>
+        <item>Побег из Шоушенка</item>
+        <item>Зеленая миля</item>
+        <item>Форрест Гамп</item>
+        <item>Интерстеллар</item>
+    </string-array>
+</resources>
