@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PortraitLandscapePresentK2023</string>
+    <string-array name="pictures">
+        <item>car 1</item>
+        <item>car 2</item>
+        <item>car 3</item>
+    </string-array>
+</resources>
